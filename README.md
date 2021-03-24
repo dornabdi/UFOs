@@ -27,6 +27,6 @@ One major drawback of the site is the range of data available for UFO Sightings.
 
 ### Recommendations for Further Development
 
-- #1 The first recommendation I have is related to the drawback I pointed out. I recommend that we draw from a dataset with wider range of dates and locations. That way, this website can be more of a "one stop shop" for researchers. 
+#1 The first recommendation I have is related to the drawback I pointed out. I recommend that we draw from a dataset with wider range of dates and locations. That way, this website can be more of a "one stop shop" for researchers. <br/> 
 
-- #2 My second recommendation is to include a keyword search filter for the UFO Sighting description. This way, those who are interested can filter UFO Sightings by how they are descriibed to find patterns and potentially draw conclusions. 
+#2 My second recommendation is to include a keyword search filter for the UFO Sighting description. This way, those who are interested can filter UFO Sightings by how they are descriibed to find patterns and potentially draw conclusions. 
