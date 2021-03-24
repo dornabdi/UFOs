@@ -26,7 +26,6 @@ function buildTable(data) {
 
 function handleClick() {
     //Get datetime value from filter
-    let date = d3.select("#datetime").property("value");
     let filteredData = tableData;
 
     // Find new date if there is one, filter data using that date
