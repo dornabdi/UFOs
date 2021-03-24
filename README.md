@@ -23,11 +23,10 @@ Remember that you can filter for any of the categories provided! Check it out fo
 ## Summary 
 
 ### One Drawback
+One major drawback of the site is the range of data available for UFO Sightings. Most notable, the data range is limited to only the first 13 days of 2010. If someone was curious about more recent sightings or wanted to compare UFO Sightings across the decade, they would not be able to do so using this website. 
 
 ### Recommendations for Further Development
 
-- #1
-- #2
+- #1 The first recommendation I have is related to the drawback I pointed out. I recommend that we draw from a dataset with wider range of dates and locations. That way, this website can be more of a "one stop shop" for researchers. 
 
-<br/> ![june_prcp](images/june_prcp.png) 
-<br/> ![dec_prcp](images/dec_prcp.png) 
+- #2 My second recommendation is to include a keyword search filter for the UFO Sighting description. This way, those who are interested can filter UFO Sightings by how they are descriibed to find patterns and potentially draw conclusions. 
