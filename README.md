@@ -18,6 +18,8 @@ Next, scroll down to find the Filter Search section. At first, you will see all 
 
 <br/> ![search2](static/images/search2.png) 
 
+Remember that you can filter for any of the categories provided! Check it out for yourself. 
+
 ## Summary 
 
 ### One Drawback
