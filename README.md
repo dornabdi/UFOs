@@ -12,11 +12,11 @@ For this project, I used Javascript, HTML, and CSS to create a dynamic webpage t
 Luckily, this dynamic webpage keeps it simple. First access the webpage. The homepage should look like the image below:
 
 
-<br/> ![search1](images/search1.png) 
+<br/> ![search1](static/images/search1.png) 
 
 Next, scroll down to find the Filter Search section. At first, you will see all of the UFO sightings listed. You can filter for any of the five categories. In the image below, I included an image of me filtering for UFO sightings in California. I input "ca", the code for California, into the filter labeled as State. When I pressed enter, a list of the UFO Sightings filtered for California will show up. See the image of the filtered results below: 
 
-<br/> ![search2](images/search2.png) 
+<br/> ![search2](static/images/search2.png) 
 
 ## Summary 
 
